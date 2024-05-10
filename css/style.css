@@ -1,0 +1,53 @@
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Color del botón */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+  }
+
+.buttonBack{
+  padding: 10px 20px;
+    background-color: #007bff; /* Color del botón */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.buttonSubmit{
+  padding: 10px 20px;
+  background-color: #000000; /* Color del botón */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+.post-container {
+  margin-bottom: 20px; /* Ajusta el margen inferior para separar los posts */
+  padding: 10px; /* Añade un relleno para que los posts tengan espacio alrededor */
+  border: 1px solid #ccc; /* Agrega un borde para resaltar visualmente cada post */
+  border-radius: 5px; /* Redondea los bordes para que se vean más suaves */
+}
+
+
+
+footer{
+  text-align: center;
+  
+}

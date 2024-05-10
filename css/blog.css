@@ -1,0 +1,16 @@
+body {
+    background-color: black !important; /* Color de fondo inicial */
+    color: white !important; /* Color de texto inicial */
+    transition: background-color 0.5s, color 0.5s; /* Transición suave entre colores */
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Color del botón */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: right;
+}
+
